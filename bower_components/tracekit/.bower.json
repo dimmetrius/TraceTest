@@ -1,0 +1,32 @@
+{
+  "name": "tracekit",
+  "main": "tracekit.js",
+  "version": "0.3.0",
+  "homepage": "https://github.com/csnover/TraceKit",
+  "description": "Cross browser stack traces",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "TraceKit",
+    "stack traces"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.0",
+    "commit": "498a2995951aeaddb18c3cbdf5c6546d37efc91f"
+  },
+  "_source": "git://github.com/csnover/TraceKit.git",
+  "_target": "~0.3.0",
+  "_originalSource": "tracekit",
+  "_direct": true
+}
